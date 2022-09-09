@@ -1,11 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
-/** 
- * main: This is the entry point of the program
- * Author: Paul Okeke
- * Date: 9th November 2022
- * Details: This program uses random number to generate series
- * Return: 0 (success) otherwise non=zero
+#include <stdio.h>
+
+/**
+ * main - Determines either greater than 5, is less than 6, or is 0
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -28,4 +28,3 @@ int main(void)
 	}
 	return (0);
 }
-
