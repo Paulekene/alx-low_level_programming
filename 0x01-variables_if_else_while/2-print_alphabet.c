@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints the alphabet
+ * main - Prints the alphabet.
  *
  * Return: Always 0 (Success)
- *
- * Author: Paul Okeke
  */
 int main(void)
 {
@@ -16,6 +14,6 @@ int main(void)
 	{
 		putchar(alp[i]);
 	}
-	putchar('\n')'
+	putchar('\n');
 	return (0);
 }
