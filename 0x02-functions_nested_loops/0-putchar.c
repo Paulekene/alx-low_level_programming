@@ -7,6 +7,7 @@
  */
 int main(void)
 {
-    _putchar("_putchar");
+    char ab = '_putchar';
+    _putchar(ab);
     return (0);
 }
