@@ -12,10 +12,10 @@ This Project is done during Full Stack Software Engineering studies at ALX with 
 
 All of the following files are programs written in C:<br>
 Filename names and their descriptions are stated below<br>
-0-main.c - Test that function positive_or_negative() gives the correct output when given a case of 0<br>
-1-main.c - Fixed program to the infinite loop<br>
-2-largest_number.c - Prints the largest of three integers<br>
-3-print_remaining_days.c - Converts a date to the day of year and determines how many days are left in the year<br>
-main.h - Header file which contains all the functions prototypes<br>
-Author: Paul Ekene Okeke<br>
-Date: 15th September, 2022<br>
+<strong>0-main.c</strong> - Test that function positive_or_negative() gives the correct output when given a case of 0<br>
+<strong>1-main.c</strong> - Fixed program to the infinite loop<br>
+<strong>2-largest_number.c</strong> - Prints the largest of three integers<br>
+<strong>3-print_remaining_days.c</strong> - Converts a date to the day of year and determines how many days are left in the year<br>
+<strong>main.h</strong> - Header file which contains all the functions prototypes<br>
+<strong>Author:</strong> Paul Ekene Okeke<br>
+<strong>Date:</strong> 15th September, 2022<br>
