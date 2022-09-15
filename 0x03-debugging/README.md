@@ -1,4 +1,4 @@
-Debugging is onr of the core programming activities at ALX SE Africa
+Debugging is one of the core programming activities at ALX SE Africa
 <h2>Debugging</h2>
 
 This Project is done during Full Stack Software Engineering studies at ALX with the purpose of fixing program errors called bugs in C.
